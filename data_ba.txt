@@ -1,14 +1,14 @@
     <select name="selectAG" id="selectAG">
     <option value="00">AG?</option>
-    <option value="01">01</option>
-    <option value="02">02</option>
-    <option value="03">03</option>
-    <option value="04">04</option>
-    <option value="05">05</option>
-    <option value="06">06</option>
-    <option value="07">07</option>
-    <option value="08">08</option>
-    <option value="09">09</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbwgZu9xbeu9gwP--1KxpWiRhaGXsdcb9sUSWNrIEY0iedsBXK_5/exec">01</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbzrnOlSFNnvkPp6eLV1yPTE7arq39LUKsMpewAo5XmRurpvKlvJ/exec">02</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbxASZcQV997y16DVzyLM_3Q8l-GFAR4puiFeLz6YJLF1IPStCc/exec">03</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbw29LFZqtjrXZqkq93fPMNcUsqJZ6uQGe_ZY5I05HvTiTXp-3ob/exec">04</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbzgGMQfBnReV7Vf9AdpVg0f9iQvJCXR3C4vxYOe-8uquhafLW8/exec">05</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbwXb6G36Usj2j2sSanR_EYLWNLrNHNYMn9fed3B2HexzwongsFf/exec">06</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbyB3nS8OtR0QOiB26qbEAnfDzDAkadHyOjNadqpVrZw3zQ3KWFS/exec">07</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbyXTYXC78VFTMaX6LTHPLDpb4N1f23uQXEq7RVg4FFHx0EU3YtF/exec">08</option>
+    <option value="https://script.google.com/a/macros/etn.fr/s/AKfycbxUL0_d4eBqWtuT1nEJJ9wTUBBmN_6OVASkBXzqYZ1JkM63-cQ/exec">09</option>
     <option value="10">10</option>
     <option value="11">11</option>
     <option value="12">12</option>
